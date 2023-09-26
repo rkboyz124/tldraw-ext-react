@@ -1,0 +1,34 @@
+{
+	"manifest_version": "ext-v1",
+	"name": "TLDraw Exam",
+	"short_name": "tldraw",
+	"version": "1.0.0",
+	"description": "TLDraw Exam",
+	"author": "Kevin Bascon",
+	"homepage_url": "https://github.com/kostik1337/CHOCH",
+	"icons": {
+		"128": "icons/icon-1024.png",
+		"background": "icons/icon-background.png",
+		"banner": "icons/icon-banner.png"
+	},
+	"scripts": [
+		"main.js"
+	],
+	"modules": {
+		"console": {
+			"module_version": "1.0.1"
+		},
+		"runtime": {
+			"module_version": "1.2.1"
+		},
+		"tabs": {
+			"module_version": "1.1.0"
+		},
+		"windows": {
+			"module_version": "1.1.0"
+		},
+		"webviews": {
+			"module_version": "1.0.2"
+		}
+	}
+}
