@@ -5,11 +5,14 @@
 	"version": "1.0.0",
 	"description": "TLDraw Exam",
 	"author": "Kevin Bascon",
-	"homepage_url": "https://github.com/kostik1337/CHOCH",
+	"homepage_url": "https://github.com/rkboyz124/tldraw-ext-react",
 	"icons": {
-		"128": "icons/icon-1024.png",
+		"128": "icons/icon-128.png",
 		"background": "icons/icon-background.png",
-		"banner": "icons/icon-banner.png"
+		"banner": "icons/icon-banner.png",
+		"128-dark": "icons/icon-128-dark.png",
+		"background-dark": "icons/icon-background-dark.png",
+		"banner-dark": "icons/icon-banner-dark.png"
 	},
 	"scripts": [
 		"main.js"
@@ -26,6 +29,9 @@
 		},
 		"windows": {
 			"module_version": "1.1.0"
+		},
+		"websessions": {
+			"module_version": "1.0.1"
 		},
 		"webviews": {
 			"module_version": "1.0.2"
