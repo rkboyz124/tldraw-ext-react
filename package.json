@@ -16,6 +16,7 @@
     "@extpkg/types-console": "^1.0.1",
     "@extpkg/types-runtime": "^1.2.1",
     "@extpkg/types-tabs": "^1.1.0",
+    "@extpkg/types-websessions": "^1.0.1",
     "@extpkg/types-webviews": "^1.0.2",
     "@extpkg/types-windows": "^1.1.0",
     "@typescript-eslint/eslint-plugin": "^6.5.0",

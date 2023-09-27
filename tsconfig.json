@@ -10,6 +10,7 @@
       "@extpkg/types-console",
       "@extpkg/types-runtime",
       "@extpkg/types-tabs",
+      "@extpkg/types-websessions",
       "@extpkg/types-webviews",
       "@extpkg/types-windows"
     ]
